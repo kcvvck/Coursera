@@ -1,0 +1,41 @@
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+
+<meta content="0c159d12-f5fe-4323-8194-f5c652b89f5c" name="dtb:uid"/>
+
+MyFirstEpub
+
+<navPoint id="a1" playOrder="0">
+
+Chapter 1
+
+<content src="book1.html#chapter1"/>
+
+<navPoint id="a2" playOrder="1">
+
+Chapter 2
+
+<content src="book1.html#chapter2"/>
+
+<navPoint id="a3" playOrder="2">
+
+Chapter 3
+
+<content src="book1.html#chapter3"/>
+
+<navPoint id="a4" playOrder="3">
+
+Chapter 4
+
+<content src="book1.html#chapter4"/>
+
+<navPoint id="a5" playOrder="4">
+
+Chapter 5
+
+<content src="book1.html#chapter5"/>
+
+<navPoint id="a6" playOrder="5">
+
+Chapter 6
+
+<content src="book1.html#chapter6"/>
